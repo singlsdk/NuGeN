@@ -1,0 +1,3 @@
+/home/singl/geant/HPGe/HPGe-build/CMakeFiles/hpge.dir
+/home/singl/geant/HPGe/HPGe-build/CMakeFiles/edit_cache.dir
+/home/singl/geant/HPGe/HPGe-build/CMakeFiles/rebuild_cache.dir

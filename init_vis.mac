@@ -1,0 +1,18 @@
+# Macro file for the initialization of example B1
+# in interactive session
+#
+# Set some default verbose
+/control/verbose 0
+/control/saveHistory
+/run/verbose 0
+#
+# Initialize kernel
+/run/initialize
+#
+# Visualization setting
+/control/execute vis.mac
+#
+# Process events
+/gun/particle gamma
+/gun/energy 0.662 MeV
+/run/beamOn 100000
